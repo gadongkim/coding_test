@@ -1,11 +1,3 @@
-# def solution(array):
-#     result = []
-
-#     def dfs(index, path):
-#         result.append(path)
-
-#         for i in range(index, len(array)):
-#             dfs(index=i+1, path=path+[array[i]])
 
 orders = ['abcfg','ac','cde','acde','bcfg','acdeh']
 
